@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zacharycodez
-- 👀 I’m interested in Android Studio, C#, .NET and MVC
+- 👀 I’m interested in Android Development, Java and C#
 - 🌱 I’m currently learning Mobile development
-- 💞️ I’m looking to collaborate on Android studio and C# projects
+- 💞️ I’m looking to collaborate on Android studio, Java and C# projects
 - 📫 How to reach me: zachlangev@gmail.com
 
 <!---
