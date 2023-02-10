@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zachary-codes
 - 👀 I’m interested in Android Development, Java and C#
-- 🌱 I’m currently learning Mobile development
 - 💞️ I’m looking to collaborate on Android studio, Java and C# projects
 - 📫 How to reach me: zachlangev@gmail.com
 
