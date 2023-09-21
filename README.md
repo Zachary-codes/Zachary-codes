@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zachary-codes
-- 👀 I’m interested in Android/Flutter Development, Java and C#
-- 💞️ I’m looking to collaborate on Android studio, Flutter, Java and C# projects.
-The apps displayed are personal projects and do not reflect my work portfolio. 
+- 👀 I’m interested in Mobile Development, Java and C#
+- 💞️ I’m looking to collaborate on Android studio, Flutter, Java and C#/Xamarin projects 
 - 📫 How to reach me: zachlangev@gmail.com
 
 <!---
